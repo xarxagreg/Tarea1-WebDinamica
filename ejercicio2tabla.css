@@ -1,0 +1,21 @@
+table{
+    width: 80%;
+ 
+  
+}
+ table, tr, td{
+
+    border-color: navy;
+    border-style: solid;
+    border-width: 0.3em;
+    border-collapse: collapse;
+    font-size: larger;
+    
+ }
+
+ button{
+    font-style: oblique;
+    font-size: xx-large;
+ }
+
+
